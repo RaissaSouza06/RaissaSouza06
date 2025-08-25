@@ -1,5 +1,16 @@
-## Hi there 👋
+## 📊 Minhas Estatísticas no GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RaissaSouza06&show_icons=true&theme=tokyonight)  
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaSouza06&layout=compact&theme=tokyonight)
+
+---
+
+## 🌍 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiosouza)  
+
+---
+
+✨ *"Sempre aprendendo, sempre evoluindo — porque tecnologia e conhecimento caminham juntos."*
 <!--
 **RaissaSouza06/RaissaSouza06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
