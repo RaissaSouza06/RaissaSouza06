@@ -5,9 +5,10 @@ Sempre explorando novas ferramentas 🔧 e aprendendo algo novo 📚.
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RaissaSouza06&show_icons=true&theme=tokyonight)  
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaSouza06&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=RaissaSouza06&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaSouza06&layout=compact&theme=tokyonight)
 
 ---
 
