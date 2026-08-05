@@ -1,18 +1,17 @@
 # 🚀 Olá, sou a Raissa
 Estudante de Desenvolvimento de Software Multiplataforma, com foco em backend e lógica de programação 💻.  
-
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=RaissaSouza06&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=RaissaSouza06&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaSouza06&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaSouza06&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ## 🏆 Conquistas
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RaissaSouza06&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RaissaSouza06&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5)]()
 
 ---
 
@@ -28,3 +27,6 @@ Estudante de Desenvolvimento de Software Multiplataforma, com foco em backend e 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaissaSouza06/RaissaSouza06/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
+✨ *"Transformando linhas de código em soluções reais, um commit por vez."*
