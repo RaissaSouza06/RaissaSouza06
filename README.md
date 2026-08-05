@@ -16,11 +16,6 @@ Estudante de Desenvolvimento de Software Multiplataforma, com foco em backend e 
 
 ---
 
-## 🏆 Conquistas
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RaissaSouza06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🌍 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiosouza)  
 
