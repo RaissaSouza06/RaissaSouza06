@@ -1,17 +1,18 @@
 # 🚀 Olá, sou a Raissa
 Estudante de Desenvolvimento de Software Multiplataforma, com foco em backend e lógica de programação 💻.  
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=RaissaSouza06&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaSouza06&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
-## 🏆 Conquistas
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RaissaSouza06&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5)]()
+## 💻 Minha Stack
+<div style="display: inline_block">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
 
 ---
 
@@ -26,7 +27,3 @@ Estudante de Desenvolvimento de Software Multiplataforma, com foco em backend e 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaissaSouza06/RaissaSouza06/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaissaSouza06/RaissaSouza06/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-✨ *"Transformando linhas de código em soluções reais, um commit por vez."*
