@@ -1,6 +1,5 @@
-# 👨‍💻 Olá, sou Estudante de **Tecnologia da Informação** 🚀
-Curiosa por **programação 💻, redes 🌐 e banco de dados 🗄️**.  
-Sempre explorando novas ferramentas 🔧 e aprendendo algo novo 📚.  
+# 🚀 Olá, sou a Raissa
+Estudante de Desenvolvimento de Software Multiplataforma, com foco em backend e lógica de programação 💻.  
 
 ---
 
@@ -12,23 +11,20 @@ Sempre explorando novas ferramentas 🔧 e aprendendo algo novo 📚.
 
 ---
 
+## 🏆 Conquistas
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RaissaSouza06&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🌍 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiosouza)  
 
 ---
 
-✨ *"Sempre aprendendo, sempre evoluindo — porque tecnologia e conhecimento caminham juntos."*
-<!--
-**RaissaSouza06/RaissaSouza06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Minha Cobrinha do GitHub
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaissaSouza06/RaissaSouza06/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaissaSouza06/RaissaSouza06/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaissaSouza06/RaissaSouza06/output/github-contribution-grid-snake.svg">
+</picture>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
