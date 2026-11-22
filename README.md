@@ -16,6 +16,14 @@ Estudante de Desenvolvimento de Software Multiplataforma, com foco em backend e 
 
 ---
 
+## 📊 Estatísticas
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaissaSouza06&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaSouza06&layout=compact&langs_count=8&theme=radical&locale=pt-br"/>
+</div>
+
+---
+
 ## 🌍 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiosouza)  
 
@@ -27,4 +35,3 @@ Estudante de Desenvolvimento de Software Multiplataforma, com foco em backend e 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaissaSouza06/RaissaSouza06/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaissaSouza06/RaissaSouza06/output/github-contribution-grid-snake.svg">
 </picture>
-
